@@ -26,7 +26,7 @@ Read the following article: [https://codeburst.io/javascript-functions-understan
 
 ---
 
-## Part 3: Part 3: Unit 3, Activity 30
+## Part 3: Unit 3, Activity 30 (JavaScript-Activity)
 
 ## Instructions
 
