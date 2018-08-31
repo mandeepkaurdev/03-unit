@@ -1,0 +1,7 @@
+JavaScript Functions: Synopsis
+
+A JavaScript function is a block of code, a "subprogram" designed to perform a particular task. Like the program itself, a function is composed of a sequence of statements called the function body. Values can be passed to a function, and the function will return a value. A function must have a return statement that specifies the value to return. A function without a return statement will return a default value. 
+
+The parameters of a function call are the function's arguments. Arguments are passed to functions by value. If the function changes the value of an argument, this change is not reflected globally or in the calling function. For example, "We are going to boil 50 ounces of water with pasta in a 150 ounce pot". In this case, water, pasta, pot are three non-negotiable parameters. But the volume of water? The type of pasta? The size of the pot? We can change those; those are the arguments. 
+
+Functions are first-class objects, because they can have properties and methods just like any other object. What distinguishes them from other objects is that functions can be called. In brief, every function in JavaScript is a Function object.
