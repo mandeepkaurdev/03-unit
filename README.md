@@ -30,4 +30,4 @@ Read the following article: [https://codeburst.io/javascript-functions-understan
 
 ## Instructions
 
-Finish [Activity 30 from Unit 3](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/GTATL201808FSF2-2/tree/master/activities/03-unit/30-activity). Instructions for this activity are in the `README.md` file located in the activity folder. Upload this activity to its own Github repo
+Finish [Activity 30 from Unit 3](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/GTATL201808FSF2-2/tree/master/activities/03-unit/30-activity). Instructions for this activity are in the `README.md` file located in the activity folder. Upload this activity to its own Github repo.
