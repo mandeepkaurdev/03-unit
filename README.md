@@ -4,7 +4,7 @@
 
 ## Part 1: Portfolio
 
-Continuation of my portfolio website from last week. Used customized information, content and CSS grid to make a responsive layout.
+Continuation of my portfolio website. Used customized information, content and CSS grid to make a responsive layout.
 
 ---
 
