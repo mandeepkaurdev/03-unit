@@ -1,6 +1,6 @@
 # 03-unit
 
-# Portfolio Continuation, Reading, and JavaScript Activity
+# Portfolio Continuation, Reading and JavaScript Activity
 
 ## Part 1: Portfolio
 
